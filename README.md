@@ -1,2 +1,3 @@
 # apps_backup
-software backup
+
+1. android 本地文件备份，有些软件已在网络上很难下载，因此记录下
